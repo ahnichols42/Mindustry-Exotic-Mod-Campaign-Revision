@@ -1,8 +1,8 @@
-temperature: 5.4
-flammability: 1
+temperature: 0.5
+flammability: 0
 viscosity: 0.55
 heatCapacity: 0
-explosiveness: 4
+explosiveness: 0.5
 effect: melting
 color: ff7d3c
 research: wolframite
