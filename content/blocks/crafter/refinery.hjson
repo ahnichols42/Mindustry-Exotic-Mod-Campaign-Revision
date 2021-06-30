@@ -5,7 +5,6 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 flameColor: ffceb5
-updateEffectChance: 0.2
 liquidCapacity: 3000
 craftTime: 60
 spinnerSpeed: -5
