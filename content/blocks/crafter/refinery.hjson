@@ -1,12 +1,12 @@
 type: Separator
-size: 6
+size: 3
 solid: true
 hasPower: true
 hasLiquids: true
 hasItems: true
 flameColor: ffceb5
 liquidCapacity: 3000
-craftTime: 10
+craftTime: 1
 
 consumes: {
   power: 5.4
@@ -18,11 +18,11 @@ consumes: {
 
 results: [
   surge-alloy/10
-  wolframite/2
-  draconium/2
-  amethyst/3
-  cookienite/4
-  tungsten/3
+  wolframite/10
+  draconium/10
+  amethyst/10
+  cookienite/10
+  tungsten/10
 ]
 
 category: crafting
@@ -31,7 +31,7 @@ requirements: [
   lead/1500
   silicon/1250
   thorium/1200
-  surge-alloy/500
+  surge-alloy/250
 ]
 
 
