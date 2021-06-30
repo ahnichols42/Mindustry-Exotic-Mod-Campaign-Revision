@@ -15,12 +15,14 @@ consumes: {
     
   }
 }
-outputItem: surge-alloy/24
-outputItem: amethyst/2
-outputItem: cookienite/2
-outputItem: draconium/2
-outputItem: tungsten/2
-outputItem: wolframite/2
+outputItem: [
+  surge-alloy/24 
+  amethyst/2 
+  cookienite/2 
+  draconium/2 
+  tungsten/2 
+  wolframite/2
+]
 outputLiquid: mag-slag/45
 category: crafting
 research: alloy-smelter
