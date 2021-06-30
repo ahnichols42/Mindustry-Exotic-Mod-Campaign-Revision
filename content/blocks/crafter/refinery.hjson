@@ -6,8 +6,7 @@ hasLiquids: true
 hasItems: true
 flameColor: ffceb5
 liquidCapacity: 3000
-craftTime: 60
-spinnerSpeed: -5
+craftTime: 10
 
 consumes: {
   power: 5.4
@@ -32,7 +31,7 @@ requirements: [
   lead/1500
   silicon/1250
   thorium/1200
-  surge-alloy/1000
+  surge-alloy/500
 ]
 
 
