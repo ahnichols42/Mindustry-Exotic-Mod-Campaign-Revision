@@ -1,5 +1,5 @@
 type: Separator
-size: 3
+size: 6
 solid: true
 hasPower: true
 hasLiquids: true
