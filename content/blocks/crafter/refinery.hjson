@@ -1,29 +1,32 @@
-type: GenericSmelter
+type: Separator
 size: 6
-itemCapacity: 125
-liquidCapacity: 90
+solid: true
+hasPower: true
 hasLiquids: true
-requiresWater: true
+hasItems: true
 flameColor: ffceb5
 updateEffectChance: 0.2
-craftTime: 320
+liquidCapacity: 3000
+craftTime: 60
+spinnerSpeed: -5
+
 consumes: {
-  power: 32
+  power: 5.4
   liquid: {
     liquid: mag-slag
-    amount: 0.6
-    
+    amount: 0.2
   }
 }
-outputItem: [
-			{item: surge-alloy , amount: 24}
-			{item: amethyst , amount : 2}
-			{item: cookienite , amount : 2}
-			{item: draconium , amount : 2}
-			{item: tungsten , amount : 2}
-			{item: wolframite , amount : 2}
+
+results: [
+  surge-alloy/10
+  wolframite/2
+  draconium/2
+  amethyst/3
+  cookienite/4
+  tungsten/3
 ]
-outputLiquid: mag-slag/45
+
 category: crafting
 research: alloy-smelter
 requirements: [
@@ -32,3 +35,5 @@ requirements: [
   thorium/1200
   surge-alloy/1000
 ]
+
+
