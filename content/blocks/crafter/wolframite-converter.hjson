@@ -26,8 +26,8 @@ consumes: {
   power: 4.2
   items: {
     items: [
-      wolframite/2
-      titanium/2
+      surge/2
+      lead/2
       silicon/2
     ]
   }
@@ -42,4 +42,4 @@ category: crafting
 research: amethyst-refiner
 ambientSound: respawn
 ambientSoundVolume: 1
-outputItem: bluewolframite/1
+outputItem: forge-plating/4

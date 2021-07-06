@@ -18,9 +18,9 @@ consumes: {
 
 results: [
   surge-alloy/10
-  wolframite/10
+  bluewolframite/10
   draconium/10
-  amethyst/10
+  amethyst-gem/10
   cookienite/10
   tungsten/10
 ]
